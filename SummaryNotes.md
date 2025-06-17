@@ -1,17 +1,14 @@
-This pages uses summary notes
-feature = input
-label = output 
 
-### Evaluation Metrics
-Regression Model 
-Mean Absolute Error (MAE): Measures the average absolute difference between predicted and actual values. It is easy to interpret as it tells how much the model's predictions deviate on average from the true values.
+- feature = input
+- label = output 
 
-Mean Squared Error (MSE): Calculates the average of the squared differences between predicted and actual values. It is useful for optimization because it is differentiable, but the squared units can be less interpretable.
+## Evaluation Metrics for Regression Models (Simplified)
 
-Root Mean Squared Error (RMSE): The square root of MSE, which brings the error metric back to the same unit as the target variable, making it more intuitive for humans.
-
-Mean Absolute Percentage Error (MAPE): Expresses the average error as a percentage, which can be more interpretable in some contexts.
-
-R-squared (Coefficient of Determination): Indicates the proportion of variance in the dependent variable explained by the model. It is commonly used to assess goodness of fit.
-
-Adjusted R-squared: Adjusts the R-squared value by penalizing the addition of unnecessary variables, helping to avoid overfitting
+| Metric                  | Description                                                                                     |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+| **Mean Absolute Error (MAE)**      | The average amount the predictions are off from the true values, ignoring direction.          |
+| **Mean Squared Error (MSE)**       | The average of the squared differences between predictions and true values (penalizes big errors more). |
+| **Root Mean Squared Error (RMSE)** | The square root of MSE, showing error in the same units as the data.                         |
+| **Mean Absolute Percentage Error (MAPE)** | The average error shown as a percentage of the true values.                                 |
+| **R-squared (Coefficient of Determination)** | How well the model explains the variation in the data (higher is better).                   |
+| **Adjusted R-squared**              | Like R-squared but adjusts for extra variables to avoid overestimating performance.          |
