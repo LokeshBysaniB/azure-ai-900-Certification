@@ -38,7 +38,7 @@ Imp Questions
 7. Which additional piece of information is included with each phrase returned by an image description task of the Azure AI Vision? **Confidence Score**
 8. Face Identification - one to many mapping and Face verification one to one matching
 9. Which natural language processing (NLP) technique normalizes words before counting them? **Stemming**
-10. Which feature of the Azure AI Language service includes functionality that returns links to external websites to disambiguate terms identified in a text? **EntityRecognition**
+10. Which feature of the Azure AI Language service includes functionality that returns links to external websites to disambiguate terms identified in a text? **EntityLinking**
 11. Semantic segmentation provides the ability to classify individual pixels in an image depending on the object that they represent. The other answer choices also process images, but their outcomes are different.
 - Stemming normalizes words before counting them. Frequency analysis counts how often a word appears in a text. N-grams extend frequency analysis to include multi-term phrases. Vectorization captures semantic relationships between words by assigning them to locations in n-dimensional space.
 - Entity Linking identifies and disambiguates the identity of entities found in a text. Key phrase extraction is not used to extract entities and is used instead to extract key phrases to identify the main concepts in a text. Named entity recognition cannot provide a link for each entity to view further information. Text translation is part of the Azure AI Translator service.
