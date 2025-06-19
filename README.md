@@ -1,5 +1,5 @@
 # Azure AI-900 Certification Notes 
-This repository is here to support your preparation for the AI-900 Certification.This exam is relatively easy if you thoroughly study the official learning paths. Personally, I passed the exam on my first try by focusing on practice questions.
+This repository is here to support your preparation for the AI-900 Certification.This exam is relatively easy if you thoroughly study the official learning paths. Personally, I passed the exam on my first try by focusing on official learning path and practice questions.
 
 **Official Study Material:** [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals)
 
