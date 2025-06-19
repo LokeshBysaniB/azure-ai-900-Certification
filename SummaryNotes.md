@@ -47,6 +47,8 @@ Imp Questions
 - Text Analytucs API : takes input text document and return sentiment and also helps with language detection and named entity recognition
 - Direct Line channel to support speach ouput
 - **Accuracy** is a calculated probability of correct Image classification.
+- Speech Synthesis - Text to speech
+- 
     ### Computer Vision
 
     ### Generative AI
@@ -63,4 +65,13 @@ AUC < 0.5: Model is performing worse than random (systematically incorrect
 ![image](https://github.com/user-attachments/assets/f909ed57-4241-428d-b418-b7fbf3b9cf4b)
 
 ![image](https://github.com/user-attachments/assets/08290d6c-013b-4177-9929-e72f7904c018)
+
+![image](https://github.com/user-attachments/assets/166a3d89-19a4-44d3-b9a6-d8e2b442ea71)
+![image](https://github.com/user-attachments/assets/ae5dd1c7-75de-4bb5-9106-2fdbb83cb23a)
+![image](https://github.com/user-attachments/assets/f2384b62-d7f3-4331-8917-21e9065ff410)
+![image](https://github.com/user-attachments/assets/140fe180-23e5-4c04-adcd-a331d1ab6e80)
+![image](https://github.com/user-attachments/assets/4ccb5733-b68b-4b7a-9386-9bc129a9a61d)
+
+
+
 
