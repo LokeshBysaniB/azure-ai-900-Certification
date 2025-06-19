@@ -27,5 +27,9 @@ This repository is here to support your preparation for the AI-900 Certification
 
 4. **Official Practice Tests:** Microsoft offers free practice tests for the AI-900 exam. These are an excellent way to test your knowledge and get familiar with the question format.
    - [Practice Tests](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
+5. **NotesPrepared** : Link to Notes prepared by me as a part of my preparation.
+   - [Notes](https://github.com/LokeshBysaniB/azure-ai-900-Certification/blob/main/SummaryNotes.md)
+- [Verify Certification](https://learn.microsoft.com/en-us/users/lokeshbysani-3837/credentials/397864ad6fe98670)
+
 
 If you found this repository helpful, please leave a star. 
