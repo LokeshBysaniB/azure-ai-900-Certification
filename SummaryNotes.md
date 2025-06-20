@@ -262,3 +262,4 @@ Extract and analyze large volumes of data from documents.
 - **Accuracy** is a calculated probability of correct Image classification.
 - Best possible R2 score : Set primary metric to R2 score
 - In the context of ROC curves, AUC values range from 0 to 1.
+- More Focus should be on Generative AI Models 
